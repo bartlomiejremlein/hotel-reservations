@@ -9,8 +9,6 @@ Korzystam z zestawu danych **Hotel Reservations Dataset**
 ([Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)).
 
 ## Notebooki
-📊 Analiza danych - [Exploratory_Data__Analysis.ipynb](Exploratory_Data__Analysis.ipynb)
+📊 Analiza danych - [Exploratory_Data__Analysis.ipynb](Exploratory_Data_Analysis.ipynb)
 
-🛠 Inżynieria cech - 
-
-📈 Modelowanie - 
+📈 Modelowanie - [Modelowanie.ipynb](Modelowanie.ipynb)
